@@ -1,0 +1,27 @@
+{
+  "name": "loteria",
+  "version": "1.0.0",
+  "description": "Aplicación web para generar cartas de la lotería mexicana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nottechguy/loteria.git"
+  },
+  "keywords": [
+    "Lotería",
+    "Mexicana"
+  ],
+  "author": " <la.mendoza.1618@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nottechguy/loteria/issues"
+  },
+  "homepage": "https://github.com/nottechguy/loteria#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
